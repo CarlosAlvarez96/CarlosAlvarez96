@@ -11,7 +11,7 @@ I am currently finishing my software develompent advanced specific vocational tr
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS, Java, PHP],
+   code: [Javascript, Java, PHP, HTML, CSS],
    technologies: {
       frontEnd: {
          js: ["React"],
