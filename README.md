@@ -5,7 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-%C3%A1lvarez-mart%C3%ADn-669b00198/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:calvarezmartin96@gmail.com)
 
-I am Carlos and I am currently finishing my software develompent advanced specific vocational training at the IES HLANZ of Granada!  
+I am currently finishing my software develompent advanced specific vocational training at the IES HLANZ of Granada!  
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
