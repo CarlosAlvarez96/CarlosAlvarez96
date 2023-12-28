@@ -37,7 +37,7 @@ const aboutMe = {
    },
    currentOccupation: ["last year student, open for job opportunities"],
    hobbies: ["Soulslike games", "sports", "manga", "hardware"],
-   nextSteps: ["keep coding", "Get C1 certificate of English"}
+   nextSteps: ["keep coding", "Get C1 certificate of English"]
 };
 ```
 
