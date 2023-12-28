@@ -11,23 +11,21 @@ I am currently finishing my software develompent advanced specific vocational tr
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, PHP],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         js: ["React"],
+         css: ["Bootstrap", "tailwind", "SASS"]
       },
       backEnd: {
-         java: ["Spring"],
+         java: ["Vanilla"],
          js: ["Node", "Express"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         PHP: ["Vanilla", "Symfony"]
+         misc: ["Bash", "PowerShell"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MySQL", "MariaDB"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["last year student, open for job opportunities"]
 };
 ```
 
