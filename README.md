@@ -48,8 +48,8 @@ const aboutMe = {
 Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
 
 <p align="center">
+     <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
   <h2>Contact me</h2>  
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
 </p> 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CarlosAlvarez96)
