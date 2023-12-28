@@ -50,11 +50,11 @@ Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dij
 <p align="center">
   <h2>Contact me</h2>  
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
-  [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CarlosAlvarez96)
-  [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-%C3%A1lvarez-mart%C3%ADn-669b00198/)
-  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:calvarezmartin96@gmail.com)
 </p> 
 
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CarlosAlvarez96)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-%C3%A1lvarez-mart%C3%ADn-669b00198/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:calvarezmartin96@gmail.com)
 
 </samp>
 </details>
