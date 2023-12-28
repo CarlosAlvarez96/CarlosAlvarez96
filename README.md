@@ -23,6 +23,7 @@ Welcome to my Github page! I am Carlos and I am currently finishing my software 
 
 #### :computer: Programming languages and tools: 
 <p>
+<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
