@@ -5,6 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-%C3%A1lvarez-mart%C3%ADn-669b00198/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:calvarezmartin96@gmail.com)
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+
 I am currently finishing my software develompent advanced specific vocational training at the IES HLANZ of Granada!  
 
 
