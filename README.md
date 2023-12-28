@@ -20,7 +20,7 @@ const aboutMe = {
       backEnd: {
          java: ["Vanilla"],
          js: ["Node", "Express"],
-         PHP: ["Vanilla", "Symfony"]
+         PHP: ["Vanilla", "Symfony"],
          misc: ["Bash", "PowerShell"]
       },
       databases: ["MySQL", "MariaDB"]
