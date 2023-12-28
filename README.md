@@ -21,7 +21,7 @@ const aboutMe = {
          java: ["Vanilla"],
          js: ["Node", "Express"],
          php: ["Vanilla", "Symfony"],
-         misc: ["Bash", "PowerShell"]
+         misc: ["Bash", "PowerShell", "git"]
       },
       databases: ["MySQL", "MariaDB"]
    },
