@@ -35,6 +35,7 @@ const aboutMe = {
       EN: "English (B2 Cambridge Certificate)"
    },
    currentOccupation: ["last year student, open for job opportunities"],
+   hobbies: ["Soulslike games", "sports", "manga", "hardware"]
    nextSteps: ["keep coding", "Get C1 certificate of English"}
 };
 ```
