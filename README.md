@@ -50,15 +50,6 @@ const aboutMe = {
 
 Check my Current Project: <a href="#">Proyectx</a>
 
-<p align="center">
-  <h2>Contact me</h2>  
-</p> 
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/CarlosAlvarez96)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-%C3%A1lvarez-mart%C3%ADn-669b00198/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:calvarezmartin96@gmail.com)
-
-
 </samp>
 </details>
     
