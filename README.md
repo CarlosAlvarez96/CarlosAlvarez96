@@ -31,7 +31,7 @@ const aboutMe = {
       },
       databases: ["MySQL", "MariaDB"]
    },
-   Languajes: {
+   languajes: {
       ES: "Spanish (Native)",
       EN: "English (B2 Cambridge Certificate)"
    },
