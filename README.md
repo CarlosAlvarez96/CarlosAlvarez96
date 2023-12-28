@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align="right" width="120"/>
+<img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" align="right" width="170"/>
 
 ### Hi there 👋 
 
