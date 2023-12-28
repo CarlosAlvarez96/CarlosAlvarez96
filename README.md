@@ -26,8 +26,8 @@ const aboutMe = {
       databases: ["MySQL", "MariaDB"]
    },
    Languajes: {
-      "ES": "Spanish (Native)",
-      "EN": "English (B2 Cambridge Certificate)"
+      ES: "Spanish (Native)",
+      EN: "English (B2 Cambridge Certificate)"
    },
    currentOccupation: ["last year student, open for job opportunities"],
    nextSteps: ["keep coding", "Get C1 certificate of English"}
