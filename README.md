@@ -7,6 +7,8 @@
 
 I am currently finishing my software develompent advanced specific vocational training at the IES HLANZ of Granada!  
 
+
+```javascript
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
@@ -27,3 +29,5 @@ const aboutMe = {
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
 };
+```
+</br></br>
