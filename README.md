@@ -49,7 +49,7 @@ const aboutMe = {
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Check my Current Project: <a href="[#](https://github.com/CarlosAlvarez96/wonderNotes)https://github.com/CarlosAlvarez96/wonderNotes">App notas</a>
+Check my Current Project: <a href="https://github.com/CarlosAlvarez96/wonderNotes">App notas</a>
 
 </samp>
 </details>
